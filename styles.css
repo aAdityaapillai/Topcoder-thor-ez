@@ -386,7 +386,7 @@ background: linear-gradient(90deg, rgba(82,63,56,1) 24%, rgba(30,168,150,1) 54%,
 }
 
 @media(max-width:580px){
-  .counter-div{
+  .counters{
     flex-direction: column;
   }
 }
